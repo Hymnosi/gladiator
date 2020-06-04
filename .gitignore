@@ -1,0 +1,8 @@
+# Ignore Python Virtual Environment
+.venv
+
+# Ignore Database
+*.db
+
+# Ignore VSCode Config
+settings.json
