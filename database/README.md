@@ -30,7 +30,7 @@ The database contains the following data:
   - End : text (datetime)
   - Winner: text (snowflake)
   - Points: int
-- Log
+- Log (Records commands used by users)
   - User : text (snowflake)
   - Name : text (name)
   - Command : text (command)

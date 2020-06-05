@@ -6,3 +6,6 @@
 
 # Ignore VSCode Config
 settings.json
+
+# Ignore pycache
+__pycache__

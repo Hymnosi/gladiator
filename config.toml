@@ -1,0 +1,18 @@
+# General Bot Configuration
+[bot]
+token = ""
+nickname = "Battle Master"
+description = "A 1v1 ELO bot"
+activity = "!info"
+prefix = "!"
+owner = "97434679916888064"
+
+# Database Configuration
+[database]
+file = "database/gladiator.db"
+
+# Log file configuration
+[log]
+enabled = true
+info = "logs/info.log"
+error = "logs/error.log"
